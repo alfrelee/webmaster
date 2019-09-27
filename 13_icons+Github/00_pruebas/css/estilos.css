@@ -1,0 +1,27 @@
+.content{
+  border: solid;
+  width: 30%;
+  padding: 1%;
+  float: left;
+}
+.icon{
+  height: 150px;
+  background: lightblue;
+  color: white;
+  font-size: 140px;
+  text-align: center;
+  border-radius: 40%;
+
+}
+
+.icon:hover{
+  background: white;
+  color: lightblue;
+}
+.icon1{
+  background: lightblue;
+  color: white;
+  font-size: 140px;
+  text-align: center;
+  border-radius: 40%;
+}
